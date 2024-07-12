@@ -19,7 +19,7 @@
  (name dream_tutorial)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml dune)
+ (depends ocaml dune dream ocamlformat utop ocaml-lsp-server)
  (tags
   (topics "to describe" your project)))
 
