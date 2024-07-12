@@ -1,0 +1,4 @@
+(executable
+ (public_name dream_tutorial)
+ (name main)
+ (libraries dream_tutorial))
